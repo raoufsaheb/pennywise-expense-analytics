@@ -185,4 +185,4 @@ netlify deploy --build --prod
 
 ## License
 
-MIT © 2026 Pennywise. Built as part of the 10-Project Professional Developer Portfolio.
+MIT © 2026 Abderraouf SAHEB
