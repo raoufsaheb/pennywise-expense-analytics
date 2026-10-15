@@ -1,3 +1,5 @@
+/// <reference lib="dom" />
+
 import { chromium } from 'playwright';
 import http from 'http';
 import fs from 'fs';
